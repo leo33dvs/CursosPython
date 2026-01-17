@@ -1,0 +1,1 @@
+print("VScode Funcionando e Configurado Para Python")
